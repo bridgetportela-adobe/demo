@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://content.da.live/bridgetportela-adobe/bridgetportela-demo-kit/
+    type: markup
